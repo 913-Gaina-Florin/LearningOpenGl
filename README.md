@@ -1,1 +1,1 @@
-# OpenGlTest
+# Test project for learning OpenGl
